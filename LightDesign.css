@@ -1,0 +1,94 @@
+body{
+    background-color: lightcyan;
+ }
+ h1{
+     font-family: cursive;
+     text-align: center;
+     font-size: 60px;
+ }
+ body{
+     text-align: center;
+ }
+ 
+p{
+    color: black;
+    text-align:center;  
+    font-size: 15px;
+    margin:20px;
+    padding:5px;
+    height: 250px;        
+    width: 300px;
+    overflow: auto;
+    
+} 
+#h3{
+    position:fixed;
+    left:650px;
+    top:300px;
+    font-size: 40px;
+    color:black;
+    font-family: cursive;
+
+}
+
+#wrapper{
+    /*width: 900px;
+    margin: 0 auto;*/
+    position: fixed;
+    top: 360px;
+    left: 550px;
+    
+}
+h2{
+    font-size: 25px;
+    position: fixed;
+    top:320px;
+    left: 630px;
+    color: black;
+}
+#check{
+    position: fixed;
+    top: 650px;
+    left: 650px;
+    color:lightgrey;
+}
+img[src*="cloud.png"]{
+    top: 80px;
+    left: 330px;
+    position: fixed;
+}
+img[src*="cloud2.png"]{
+    top: 80px;
+    left: 1000px;
+    position: absolute;
+}
+
+img[src*="shoes.png"]{
+   top: 100px;
+   right: 50px;
+   position: absolute;
+}
+img[src*="shoes2.png"]{
+    left: 10px;
+    top: 100px;
+    position: fixed;
+}
+img[src*="shoes3.jpeg"]{
+    left: 10px;
+    top: 300px;
+    position: fixed;
+}
+img[src*="shoes4.jpeg"]{
+    left: 10px;
+    top: 500px;
+    position: fixed;
+}
+
+button{
+    top:750px;
+    left:700px;
+    position: fixed;
+}
+
+
+
