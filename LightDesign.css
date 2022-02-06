@@ -64,7 +64,7 @@ img[src*="cloud2.png"]{
     position: absolute;
 }
 
-img[src*="shoes.png"]{
+img[src*="shoes.gif"]{
    top: 100px;
    right: 50px;
    position: absolute;
@@ -90,6 +90,9 @@ button{
     left:700px;
     position: fixed;
 }
+
+
+
 
 
 
